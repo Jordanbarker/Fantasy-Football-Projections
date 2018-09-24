@@ -3,6 +3,8 @@
 ### Precaution: This is my first webscrapping/github project. I'm still making several changes
 
 ## The Basics
+My league is located on http://fantasy.nfl.com so all of the functions are based around that.
+
 Using python libraries such as Selenium and BeautifulSoup, I have created some functions to search websites and get weekly player projections.
 The goal of the project is to make more accurate predictions on who to play week by week and possibly have players swapped automatically.
 
