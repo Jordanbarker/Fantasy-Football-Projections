@@ -1,6 +1,6 @@
 # Fantasy-Football-Git
 
-### Precaution: This is my first webscrapping/github project. I'm still making several changes
+### Warning: This was my first webscrapping/github project. Website HTML elements have likely changed.
 
 ## The Basics
 My league is located on http://fantasy.nfl.com so all of the functions are based around that.
